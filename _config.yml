@@ -34,6 +34,8 @@ github_username:  jekyll
 remote_theme: jekyll-theme-hyde-plus
 plugins:
   - jekyll-feed
+  - jekyll-archives
+  - jekyll-commonmark-ghpages
 markdown: kramdown
 highlighter: rouge
 
