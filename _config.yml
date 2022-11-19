@@ -30,7 +30,8 @@ twitter_username: jekyllrb
 github_username:  jekyll
 
 # Build settings
-theme: jekyll-theme-hydeout
+#theme: jekyll-theme-hyde
+remote_theme: hydecorp/hydejack@v9
 plugins:
   - jekyll-feed
 markdown: kramdown
