@@ -31,7 +31,7 @@ github_username:  jekyll
 
 # Build settings
 #theme: jekyll-theme-hyde
-remote_theme: hydecorp/hydejack@v9
+remote_theme: jekyll-theme-hyde
 plugins:
   - jekyll-feed
 markdown: kramdown
